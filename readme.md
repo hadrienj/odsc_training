@@ -56,7 +56,7 @@ pipenv --version
 
 Download the Github repository that contains the notebooks at this address: https://github.com/hadrienj/odsc_training.
 
-<img src="images/setup.png" width="300">
+<img src="images/setup.png" width="600">
 Click the 'clone' button and then download the `.zip`.
 
 
@@ -72,7 +72,7 @@ Now, you can create a virtual environment with Python 3.7 for the project:
 pipenv --python 3.7
 ```
 
-Then, install the required libraries:
+Then, dinstall the required libraries:
 
 ```
 pipenv install
