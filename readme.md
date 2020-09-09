@@ -56,7 +56,7 @@ pipenv --version
 
 Download the Github repository that contains the notebooks at this address: https://github.com/hadrienj/odsc_training.
 
-<img src="images/setup.png" width="600">
+<img src="images/setup.png" width="900">
 Click the 'clone' button and then download the `.zip`.
 
 
