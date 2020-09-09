@@ -1,0 +1,22 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+jupyter = "*"
+notebook = "*"
+numpy = "*"
+matplotlib = "*"
+pandas = "*"
+sklearn = "*"
+keras = "*"
+pypandoc = "*"
+jupyter-nbextensions-configurator = "*"
+jupyter-contrib-nbextensions = "*"
+tensorflow = "*"
+
+[requires]
+python_version = "3.7"
