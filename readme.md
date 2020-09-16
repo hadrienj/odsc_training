@@ -1,12 +1,14 @@
 # Background
 
-Here are the companion notebooks of the training session I gave at the [Open Data Science Conference (ODSC)](https://odsc.com/europe/) (16th Sept. 2020).
+Here are the companion notebooks of my training session at the [Open Data Science Conference (ODSC)](https://odsc.com/europe/) (16th Sept. 2020).
 
 Programming is a great way to get practical insights about math theoretical concepts. The goal of this session is to show you that you can start learning the math needed for machine learning and data science using code. You'll learn about scalars, vectors, matrices and tensors, and see how to use linear algebra on your data.
 
+This content is inspired from the book [Essential Math for Data Science](https://www.essentialmathfordatascience.com/) that I'm currently writing (estimated date of release: November 2020).
+
 # Setup
 
-Here are the steps to do to follow the training session using the Jupyter notebooks. You'll be able to do the exercises in the training.
+Here are the steps to do to follow the session using the Jupyter notebooks. This will allow you to do the exercises.
 
 ## Python
 
