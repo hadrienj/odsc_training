@@ -1,10 +1,10 @@
 # Background
 
-Here are the companion notebooks of my training session at the [Open Data Science Conference (ODSC)](https://odsc.com/europe/) (16th Sept. 2020).
+Here are the companion notebooks of my training session at the [Open Data Science Conference (ODSC)](https://odsc.com/europe/) (14th June 2022).
 
 Programming is a great way to get practical insights about math theoretical concepts. The goal of this session is to show you that you can start learning the math needed for machine learning and data science using code. You'll learn about scalars, vectors, matrices and tensors, and see how to use linear algebra on your data.
 
-This content is inspired from the book [Essential Math for Data Science](https://www.essentialmathfordatascience.com/) that I'm currently writing (estimated date of release: November 2020).
+This content is inspired from my book [Essential Math for Data Science](https://www.essentialmathfordatascience.com/).
 
 # Setup
 
@@ -74,7 +74,7 @@ Now, you can create a virtual environment with Python 3.7 for the project:
 pipenv --python 3.7
 ```
 
-Then, dinstall the required libraries:
+Then, install the required libraries:
 
 ```
 pipenv install
